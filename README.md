@@ -3,7 +3,7 @@
  
  Приложение было сделано без визуальной части..
 
- Для запуска нужно запустить файл AuthorizationForm-1.0-SNAPSHOT-jar-with-dependencies.jar
+ Для запуска нужно запустить файл target/AuthorizationForm-1.0-SNAPSHOT-jar-with-dependencies.jar
  ### Registration
  Для регистрации нового пользователя надо отправить запрос на localhost:8080/registration?name=x&password=y
  ### Login
